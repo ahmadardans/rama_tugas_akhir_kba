@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Rama_tugas_akhir_kba" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/orange</item>
+    </style>
+
+    <style name="Theme.Rama_tugas_akhir_kba" parent="Base.Theme.Rama_tugas_akhir_kba" />
+</resources>
